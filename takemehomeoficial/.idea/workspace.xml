@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db9c9b7a-ad6b-4424-bbda-5a2cf80ab450" name="Changes" comment="dockerfile">
+      <change beforePath="$PROJECT_DIR$/../TakemeHome0_0" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VmgJPwJsBaa9219XQN6aGoq7GZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/tptakemehome/takemehomeoficialtp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "2b28ebe5c00cda89973e1c2888f0b7e4",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\takemehomeoficial\TakemeHome0_0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TakemeHome00Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="TakemeHome0_0" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.edu.upc.aww.takemehome0_0.TakemeHome00Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db9c9b7a-ad6b-4424-bbda-5a2cf80ab450" name="Changes" comment="" />
+      <created>1695446597159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695446597159</updated>
+      <workItem from="1695446598368" duration="644000" />
+      <workItem from="1695486294723" duration="3870000" />
+      <workItem from="1695495666566" duration="5361000" />
+      <workItem from="1695505570902" duration="299000" />
+      <workItem from="1695506262104" duration="183000" />
+    </task>
+    <task id="LOCAL-00001" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1695501016928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501016928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1695501052020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501052020</updated>
+    </task>
+    <task id="LOCAL-00003" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1695501128581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501128581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1695501159824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501159824</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class">
+      <option name="closed" value="true" />
+      <created>1695501592325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501592325</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695501734471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501734472</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695501955857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695501955857</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695502370190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695502370190</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695502388028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695502388028</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695502485553</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695502485553</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dockerfile">
+      <option name="closed" value="true" />
+      <created>1695502731653</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695502731653</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="application.properties" />
+    <MESSAGE value="class" />
+    <MESSAGE value="dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="dockerfile" />
+  </component>
+</project>
